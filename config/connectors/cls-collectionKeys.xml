@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="SIQA_Origin.cloudConnectors:salesforce_CRM_CreateAccount" connectorServiceName="SIQA_Origin.cloudConnectors:salesforce_CRM_CreateAccount"/>
+            <keyDetails collectionKey="SIQA_Origin.cloudConnectors:salesforce_CRM_DeleteAccount" connectorServiceName="SIQA_Origin.cloudConnectors:salesforce_CRM_DeleteAccount"/>
+            <keyDetails collectionKey="SIQA_Origin.cloudConnectors:salesforce_CRM_UpdateAccount" connectorServiceName="SIQA_Origin.cloudConnectors:salesforce_CRM_UpdateAccount"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
