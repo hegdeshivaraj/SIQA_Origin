@@ -10,6 +10,7 @@
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="WmSalesforceProvider">1</value>
     <value name="WmSalesforceBulkProvider">2</value>
+    <value name="WmAmazonSQSProvider">3</value>
   </record>
   <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
