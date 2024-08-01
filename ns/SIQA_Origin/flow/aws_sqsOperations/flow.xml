@@ -814,7 +814,7 @@
 </MAP>
 </INVOKE>
 
-<INVOKE TIMEOUT="" SERVICE="SIQA_Origin.cloudConnectors:aqs_SQS_receiveMessage" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+<INVOKE TIMEOUT="" SERVICE="SIQA_Origin.cloudConnectors:sqs_SQS_receiveMessage" VALIDATE-IN="$none" VALIDATE-OUT="$none">
   <COMMENT></COMMENT>
 
   <!-- nodes -->
