@@ -11,6 +11,7 @@
     <value name="WmSalesforceProvider">*.*</value>
     <value name="WmSalesforceBulkProvider">*.*</value>
     <value name="WmAmazonSQSProvider">*.*</value>
+    <value name="WmMarketoProvider">*.*</value>
   </record>
   <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
