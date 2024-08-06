@@ -7,6 +7,7 @@
             <keyDetails collectionKey="SIQA_Origin.cloudConnectors:aws_SQS_deleteQueue" connectorServiceName="SIQA_Origin.cloudConnectors:aws_SQS_deleteQueue"/>
             <keyDetails collectionKey="SIQA_Origin.cloudConnectors:aws_SQS_getQueueDetails" connectorServiceName="SIQA_Origin.cloudConnectors:aws_SQS_getQueueDetails"/>
             <keyDetails collectionKey="SIQA_Origin.cloudConnectors:aws_SQS_sendMessage" connectorServiceName="SIQA_Origin.cloudConnectors:aws_SQS_sendMessage"/>
+            <keyDetails collectionKey="SIQA_Origin.cloudConnectors:marketo_" connectorServiceName="SIQA_Origin.cloudConnectors:marketo_"/>
             <keyDetails collectionKey="SIQA_Origin.cloudConnectors:sqs_SQS_receiveMessage" connectorServiceName="SIQA_Origin.cloudConnectors:sqs_SQS_receiveMessage"/>
         </servicesKeys>
     </cloudstreamsCollectionKeys>

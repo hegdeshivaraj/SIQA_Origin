@@ -13,7 +13,7 @@
     <value name="providerName">WmMarketoProvider</value>
     <value name="providerConnectionType">sagcloud</value>
     <record name="connectionGroupProperties" javaclass="com.wm.util.Values">
-      <value name="cn.providerUrl">https://softwareagsandbox1.mktorest.com</value>
+      <value name="cn.providerUrl"> https://433-EYT-977.mktorest.com</value>
       <value name="cn.connectTimeout">30000</value>
       <value name="cn.readTimeout">30000</value>
       <value name="cn.socketStaleCheck">true</value>
@@ -38,9 +38,9 @@
       <value name="oauth.consumerSecret">connection:siqa_marketo.oauth.consumerSecret</value>
       <value name="oauth.accessToken">connection:siqa_marketo.oauth.accessToken</value>
       <value name="oauth_v20.instanceURL"></value>
-      <value name="oauth_v20.refreshAccessToken">false</value>
+      <value name="oauth_v20.refreshAccessToken">true</value>
       <value name="oauth_v20.refreshToken">connection:siqa_marketo.oauth_v20.refreshToken</value>
-      <value name="oauth_v20.accessTokenRefreshURL">https://softwareagsandbox1.mktorest.com/identity/oauth/token</value>
+      <value name="oauth_v20.accessTokenRefreshURL"> https://433-EYT-977.mktorest.com/identity/oauth/token</value>
       <value name="oauth_v20.accessTokenRefreshURLRequest">Custom ESB Service</value>
       <value name="oauth_v20.accessTokenRefreshCustomESBService">wmmarketo_v1.refreshToken:customRefreshToken</value>
       <value name="oauth_v20.authorizationHeaderPrefix">Bearer</value>
@@ -65,7 +65,6 @@
     </record>
     <array name="formattableFields" type="value" depth="1">
     </array>
-    <value name="connectionEnabled">false</value>
+    <value name="connectionEnabled">true</value>
   </record>
-  <value name="LOCK_REQUIRED">false</value>
 </Values>
